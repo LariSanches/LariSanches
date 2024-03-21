@@ -1,12 +1,12 @@
 
 # Bem-vindo ao Meu Repositório!
 
-Olá! Sou Larissa Sanches e este é meu repositório no GitHub. Aqui você encontrará projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e contribuir se desejar!
+Olá! Sou Larissa Sanches e aqui você encontrará projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e contribuir se desejar!
 
 ## Sobre Mim
 
 - 👋 Olá, sou @LariSanches.
-- 🎓 Estou interessada em Desenvolvimento de sitemas/web, com especial interesse em Java.
+- 🎓 Estou interessada em Desenvolvimento de sitemas/web.
 - 🎓 Atualmente estou cursando Anánise e desenvolvimento de sistemas na Fatec Ipiranga.
 - 🎓 Realizando bootcamp fullstack Java React pela Generation.
 - 🎓 Formada em Gestão empresarial pela Fatec Catanduva.
