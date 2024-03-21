@@ -6,7 +6,7 @@ Olá! Sou Larissa Sanches e aqui você encontrará projetos nos quais tenho trab
 ## Sobre Mim
 
 - 👋 Olá, sou @LariSanches.
-- 🎓 Estou interessada em Desenvolvimento de sitemas/web.
+- 🎓 Estou interessada em Desenvolvimento de Sistemas/Web.
 - 🎓 Atualmente estou cursando Anánise e desenvolvimento de sistemas na Fatec Ipiranga.
 - 🎓 Realizando bootcamp fullstack Java React pela Generation.
 - 🎓 Formada em Gestão empresarial pela Fatec Catanduva.
