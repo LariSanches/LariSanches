@@ -9,7 +9,8 @@ Olá! Sou Larissa Sanches e este é meu repositório no GitHub. Aqui você encon
 - 🎓 Estou interessada em Desenvolvimento de sitemas/web, com especial interesse em Java.
 - 🎓 Atualmente estou cursando Anánise e desenvolvimento de sistemas na Fatec Ipiranga.
 - 🎓 Realizando bootcamp fullstack Java React pela Generation.
-- 🎓 Formada em Gestão empresarial pela Fatec Catanduva e pós graduada em Gestão empresarial pela Fatec Taquaritinga.
+- 🎓 Formada em Gestão empresarial pela Fatec Catanduva.
+- 🎓 Pós-graduada em Gestão Empresarial pela Fatec Taquaritinga.
 - 🌱 Estou sempre aprendendo e buscando novos desafios.
 - 📫 Você pode me contatar através do meu e-mail larissaesanches@gmail.com.
 
