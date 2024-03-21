@@ -26,9 +26,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 ## Projetos Destacados
 
-- [[Projeto blog pessoal](https://github.com/LariSanches/projeto_blog_pessoal)]: Criação full stack de um blog pessoal utilizando Java, Spring Boot, JavaScript, HTML, CSS.
-- [[Projeto integrador](https://github.com/abstifree/projetoIntegrador)]: Projeto integrador full stack na contrução de um site  utilizando Java, Spring Boot, JavaScript, HTML, CSS.
-- [[Projeto conta bancária](https://github.com/LariSanches/Projeto-conta-bancaria-Java)]: Desenvolvimento orientado a objeto utilizando Java com sistema CRUD.
+- [Projeto blog pessoal](https://github.com/LariSanches/projeto_blog_pessoal): Criação full stack de um blog pessoal utilizando Java, Spring Boot, JavaScript, HTML, CSS.
+- [Projeto integrador](https://github.com/abstifree/projetoIntegrador): Projeto integrador full stack na contrução de um site  utilizando Java, Spring Boot, JavaScript, HTML, CSS.
+- [Projeto conta bancária](https://github.com/LariSanches/Projeto-conta-bancaria-Java): Desenvolvimento orientado a objeto utilizando Java com sistema CRUD.
 
 
 ## Estatísticas do GitHub
@@ -38,6 +38,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 ## Contato
 
 - 📧 E-mail: larissaesanches@gmail.com
-- 💼 LinkedIn: [- [Larissa Sanches](https://www.linkedin.com/in/larissasanches/)
+- 💼 LinkedIn: [Larissa Sanches](https://www.linkedin.com/in/larissasanches/)
 
 Obrigado por visitar meu perfil! 😊
